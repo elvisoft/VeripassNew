@@ -1,0 +1,4 @@
+#Thu Apr 09 19:42:38 ART 2020
+base.0=/home/elvis/VeripassNew/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

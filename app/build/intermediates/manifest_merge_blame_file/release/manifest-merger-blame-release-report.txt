@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Veripass1"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="2"
+8-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:9:5-31:19
+12        android:allowBackup="true"
+12-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:10:9-35
+13        android:icon="@drawable/logomejorado"
+13-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:11:9-46
+14        android:label="@string/app_name"
+14-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:12:9-41
+15        android:theme="@style/TemaPersonalizado" >
+15-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:13:9-49
+16        <activity
+16-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:14:9-22:20
+17            android:name="com.Veripass1.MainActivity"
+17-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:15:13-54
+18            android:label="@string/appTituloventana"
+18-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:16:13-53
+19            android:noHistory="true" >
+19-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:15:55-79
+20            <intent-filter>
+20-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:17:13-21:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:18:17-69
+21-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:18:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:20:17-77
+23-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:20:27-74
+24            </intent-filter>
+25        </activity>
+26        <activity
+26-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:23:9-118
+27            android:name="com.Veripass1.BandejaEntrada"
+27-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:23:19-62
+28            android:label="@string/txtTituloCategorias" />
+28-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:23:63-106
+29        <activity
+29-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:24:9-97
+30            android:name="com.Veripass1.UsuarioNuevo"
+30-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:24:19-60
+31            android:noHistory="true" />
+31-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:24:61-85
+32        <activity
+32-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:25:9-113
+33            android:name="com.Veripass1.AltaRegistro"
+33-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:25:19-60
+34            android:label="@string/txtTituloAltaReg" />
+34-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:25:61-101
+35        <activity android:name="com.Veripass1.MostrarRegxCategoria" />
+35-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:26:9-80
+35-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:26:19-68
+36        <activity android:name="com.Veripass1.MuestraRegistro" />
+36-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:27:9-75
+36-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:27:19-63
+37        <activity android:name="com.Veripass1.BarraPersonalizadaActivity" />
+37-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:28:9-86
+37-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:28:19-74
+38        <activity
+38-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:29:9-102
+39            android:name="com.Veripass1.ModificarRegistro"
+39-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:29:19-65
+40            android:noHistory="true" />
+40-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:29:66-90
+41        <activity android:name="com.Veripass1.Ayuda" />
+41-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:30:9-65
+41-->/home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:30:19-53
+42    </application>
+43
+44</manifest>

@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_bandeja_entrada_usu.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/bandeja_entrada_usu.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_mail32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/mail32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_savedat.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/savedat.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_fondoveripass4.jpg.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/fondoveripass4.jpg"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_barratitulover_reg.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/barratitulover_reg.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_fondoveripass3.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/fondoveripass3.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_editar.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/editar.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_creditcard.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/creditcard.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_facebook.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/facebook.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_delete.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/delete.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_plus.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/plus.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_reg_nuevo_usu.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/reg_nuevo_usu.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_fondoveripass7.jpg.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/fondoveripass7.jpg"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_back.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_configure32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/configure32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_nuevoregclave.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/nuevoregclave.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_imagguardar.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/imagguardar.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_web32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/web32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_windowb32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/windowb32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_add32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/add32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_userlock.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/userlock.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_check.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/check.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_ajustes.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/ajustes.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_fondoveripass6.jpg.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/fondoveripass6.jpg"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_reg_x_categoria.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/reg_x_categoria.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_close32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/close32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_veer.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/veer.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_aboutfaqs.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/aboutfaqs.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_settings.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_verpass.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/verpass.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_configure.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/configure.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_lock32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/lock32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/menu_activity_main.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_logomejorado.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/logomejorado.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_barratitulonewreg.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/barratitulonewreg.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_help.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/help.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_guardar.jpg.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/guardar.jpg"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_agregarnew.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/agregarnew.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_fondoveripass2.jpg.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/fondoveripass2.jpg"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_close32sinfondo.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/close32sinfondo.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_ajustes2.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/ajustes2.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_nover.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/nover.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_playall.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/playall.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_agregar1.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/agregar1.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_folderlocked32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/folderlocked32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_fondoveripass5.jpg.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/fondoveripass5.jpg"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_altaregistro.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/altaregistro.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_pdablue.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/pdablue.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_key.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/key.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_guardar2.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/guardar2.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_barratitulo1.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/barratitulo1.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_list_item_categoria.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/list_item_categoria.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_bank.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/bank.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_edit32.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/edit32.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_ayuda.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/ayuda.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_fondoveripass1.jpg.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/fondoveripass1.jpg"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_cajafuerte.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/cajafuerte.png"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/layout_muestra_registro.xml.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/layout/muestra_registro.xml"
+    },
+    {
+        "merged": "/home/elvis/VeripassNew/app/build/intermediates/res/merged/release/drawable-mdpi_kservices.png.flat",
+        "source": "/home/elvis/VeripassNew/app/src/main/res/drawable-mdpi/kservices.png"
+    }
+]

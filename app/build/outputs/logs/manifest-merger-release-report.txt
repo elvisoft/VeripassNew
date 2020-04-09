@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:9:5-31:19
+	android:label
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:11:9-46
+	android:allowBackup
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:13:9-49
+activity#com.Veripass1.MainActivity
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:16:13-53
+	android:noHistory
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:15:55-79
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:15:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.Veripass1.BandejaEntrada
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:23:9-118
+	android:label
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:23:63-106
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:23:19-62
+activity#com.Veripass1.UsuarioNuevo
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:24:9-97
+	android:noHistory
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:24:61-85
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:24:19-60
+activity#com.Veripass1.AltaRegistro
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:25:9-113
+	android:label
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:25:61-101
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:25:19-60
+activity#com.Veripass1.MostrarRegxCategoria
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:26:9-80
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:26:19-68
+activity#com.Veripass1.MuestraRegistro
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:27:9-75
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:27:19-63
+activity#com.Veripass1.BarraPersonalizadaActivity
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:28:9-86
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:28:19-74
+activity#com.Veripass1.ModificarRegistro
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:29:9-102
+	android:noHistory
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:29:66-90
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:29:19-65
+activity#com.Veripass1.Ayuda
+ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:30:9-65
+	android:name
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml:30:19-53
+uses-sdk
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+		ADDED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml
+		INJECTED from /home/elvis/VeripassNew/app/src/main/AndroidManifest.xml

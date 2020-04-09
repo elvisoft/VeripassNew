@@ -1,0 +1,16 @@
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+     <style name="FondoBarraPersonalizada">
+         <item name="android:background">@color/azuloscuro</item>
+</style>
+<style name="TemaPersonalizado" parent="android:Theme">
+         <item name="android:windowTitleSize">42dp</item>         
+         <item name="android:windowTitleBackgroundStyle">@style/FondoBarraPersonalizada</item>                             
+</style>
+<color name="Blanco">#FFFF</color>
+<color name="verdefuerte">#33FFCC</color>
+<color name="negro">#000000</color>
+<color name="azuloscuro">#003366</color>
+<color name="grisclaro">#B8B8B8</color>
+
+ </resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/textTitulo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/txtTituloCategorias"
+        android:textColor="@color/Blanco" />
+
+    <ImageView
+        android:id="@+id/ImgAgregarRegNew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"        
+        android:layout_alignParentTop="true"
+        android:src="@drawable/add32" android:contentDescription="Agregar Registro"/>
+
+    <ImageView
+        android:id="@+id/imagCerrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/ImgAgregarRegNew"
+        android:contentDescription="Salir del Programa"
+        android:src="@drawable/lock32" />
+
+</RelativeLayout>

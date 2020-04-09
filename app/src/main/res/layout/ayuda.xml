@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sobre Veripass" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="57dp"
+        android:layout_height="55dp"
+        android:src="@drawable/logomejorado" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Veripass es un administrador de contraseñas. Es una app completamente gratuita. Administra tus contraseñas y guarda tus datos cifrados en tu celular. La primera vez que ingresas te pide una contraseña maestra, luego con esa contraseña podras ingresar cuando vuelvas a tu veripass." />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recuerde al salir cerrar su sesion con el boton del candadito que se encuentra arriba en el tope de la pantalla. Esto para mayor seguridad de sus datos. Las contraseñas se guardan por categorias. Para agregar una contraseña haces click en el boton (+) luego completas el formulario. Si tenes mas dudas o alguna inquietud sobre veripass, podes comunicarte al email: elvisoftbeta@gmail.com " />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mantene actualizado a Veripass muy pronto se vendran mejoras para esta app. Esta aplicacion ha sido desarrollada por: Elvis Mancilla: http://www.webgratis.com.ar" />
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+         >
+        
+    <Button
+        android:id="@+id/btnIratras"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:drawableLeft="@drawable/back"
+        android:text="Ir Atras" />
+    
+    <Button
+        android:id="@+id/btnCompartir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:drawableLeft="@drawable/facebook"
+        android:text="Comparte Veripass" />
+           
+    </LinearLayout>
+    
+</LinearLayout>

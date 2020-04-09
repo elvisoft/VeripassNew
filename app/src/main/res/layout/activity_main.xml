@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondoveripass6"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btnSalir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnAyuda"
+        android:layout_alignBottom="@+id/btnAyuda"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="38dp"
+        android:drawableLeft="@drawable/userlock"
+        android:text="@string/txtSalir" />
+
+    <Button
+        android:id="@+id/btnAyuda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnIngresar"
+        android:layout_marginRight="18dp"
+        android:layout_marginTop="74dp"
+        android:layout_toLeftOf="@+id/btnSalir"
+        android:drawableLeft="@drawable/help"
+        android:text="@string/txtAyuda" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnAyuda"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/logomejorado" />
+   
+    <EditText
+        android:id="@+id/edTextingClaveUsureg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="@string/TextoingClave"
+        android:inputType="textPassword" >
+
+        <requestFocus />
+    </EditText>
+
+    <ToggleButton
+        android:id="@+id/tglButonPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/edTextingClaveUsureg"                        
+        android:textOff="Ver"
+        android:textOn="Ver" 
+        android:focusable="false"        
+        android:focusableInTouchMode="false"
+        />
+
+    <TextView
+        android:id="@+id/textVLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btnAyuda"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="44dp"
+         />
+
+    <Button
+        android:id="@+id/btnIngresar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textVLink"
+        android:layout_below="@+id/edTextingClaveUsureg"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/key"
+        android:text="@string/Textoingbtn" />
+
+</RelativeLayout>

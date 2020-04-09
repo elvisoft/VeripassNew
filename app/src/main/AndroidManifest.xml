@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Veripass1"
+    android:versionCode="2"
+    android:versionName="1.1" >
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logomejorado"
+        android:label="@string/app_name"
+        android:theme="@style/TemaPersonalizado">
+        <activity
+            android:name="com.Veripass1.MainActivity" android:noHistory="true"
+            android:label="@string/appTituloventana" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.Veripass1.BandejaEntrada" android:label="@string/txtTituloCategorias"></activity>
+        <activity android:name="com.Veripass1.UsuarioNuevo" android:noHistory="true"></activity>
+        <activity android:name="com.Veripass1.AltaRegistro" android:label="@string/txtTituloAltaReg"></activity>
+        <activity android:name="com.Veripass1.MostrarRegxCategoria"></activity>
+        <activity android:name="com.Veripass1.MuestraRegistro"></activity>
+        <activity android:name="com.Veripass1.BarraPersonalizadaActivity"></activity>
+        <activity android:name="com.Veripass1.ModificarRegistro" android:noHistory="true"></activity>
+        <activity android:name="com.Veripass1.Ayuda"></activity>
+    </application>
+
+</manifest>

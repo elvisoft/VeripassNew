@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logomejorado" android:contentDescription="@string/text_AtencionUsuarioNuevo"
+        />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:text="@string/text_AtencionUsuarioNuevo" />
+    
+
+    <EditText
+        android:id="@+id/editTxtPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/TextoingClave"
+        android:inputType="textPassword" >
+
+        <requestFocus />
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/editTxtRepitaPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/TxtRepitaClave"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/imagguardar"
+        android:text="@string/textbtn_guardardat" />
+
+    <TextView
+        android:id="@+id/textVlinkweb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:text="Diseñado y programado por elvisoft" />
+
+</LinearLayout>

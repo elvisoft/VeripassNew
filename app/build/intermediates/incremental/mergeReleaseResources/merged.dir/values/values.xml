@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Categorias">
+	    <item>Cuentas de Correo Email</item>
+        <item>Sitios Web</item>
+        <item>PC Escritorio</item>
+        <item>Tarjetas de Credito</item>
+        <item>Cuentas Bancarias</item>
+        <item>Cajas Fuertes</item>
+        <item>Redes Sociales</item>
+        <item>Telefonos y Moviles</item>
+        <item>Otras Contraseñas</item>        	    	   
+	</string-array>
+    <color name="Blanco">#FFFF</color>
+    <color name="azuloscuro">#003366</color>
+    <color name="grisclaro">#B8B8B8</color>
+    <color name="negro">#000000</color>
+    <color name="verdefuerte">#33FFCC</color>
+    <string name="TextoBienvenidousureg">Bienvenido usuario registrado</string>
+    <string name="TextoRecord_guardar_pass">Recuerde guardar su clave maestra en un lugar seguro.</string>
+    <string name="TextoingClave">Ingrese Contraseña Maestra</string>
+    <string name="TextoingClave_nuevousu">Ingrese una clave maestra:</string>
+    <string name="TextoingClave_nuevousu2">Ingrese nuevamente clave maestra:</string>
+    <string name="Textoingbtn">Entrar</string>
+    <string name="Textousu_noreg">El sistema ha detectado que usted no es un usuario registrado. Porfavor ingrese una clave maestra a continuacion:</string>
+    <string name="TxtRepitaClave">Repita Contraseña Maestra</string>
+    <string name="appTituloventana">Veripass: Administra tus contraseñas</string>
+    <string name="app_name">Veripass</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Configuracion</string>
+    <string name="text_AtencionUsuarioNuevo">La aplicacion ha detectado que esta es la primera ves que usted ingresa. Porfavor cree una nueva contraseña maestra. Recuerde guardar la contraseña en un lugar seguro, la necesitara para ingresar a su veripass.</string>
+    <string name="textbtn_guardardat">Guardar Datos</string>
+    <string name="txtAyuda">Ayuda</string>
+    <string name="txtMostrarPass">Mostrar</string>
+    <string name="txtNoMostrarPass">No Mostrar</string>
+    <string name="txtNuevoPass">Agregar Registro</string>
+    <string name="txtPinnerCategoria">Eliga una Categoria</string>
+    <string name="txtSalir">Salir</string>
+    <string name="txtTituloAltaReg">Veripass: Alta de Registro</string>
+    <string name="txtTituloCategorias">VeriPass - Categorias</string>
+    <string name="txtbtn_Aceptar">Aceptar</string>
+    <string name="txtbtn_Cancelar">Cancelar</string>
+    <string name="txtbtn_Registrar">Registrar</string>
+    <style name="FondoBarraPersonalizada">
+         <item name="android:background">@color/azuloscuro</item>
+</style>
+    <style name="TemaPersonalizado" parent="android:Theme">
+         <item name="android:windowTitleSize">42dp</item>         
+         <item name="android:windowTitleBackgroundStyle">@style/FondoBarraPersonalizada</item>                             
+</style>
+</resources>
